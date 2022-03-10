@@ -1,0 +1,9 @@
+Microcontroller ---------------> amp --
+                                      | (pins)
+Wall plug --> bridge rectifier --> h bridge  --> motor
+	          (VCC)
+
+Amp, octocoupler
+
+Create full bridge rectifier from wall plug, add amplifier from arduino pins (MOSFET needs certain current,
+arduino provides too low current so must be amplified)
