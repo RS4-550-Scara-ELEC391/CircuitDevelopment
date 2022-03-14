@@ -1,0 +1,5 @@
+Vss = 19.47
+Vsettling = 19.86 = Vss * 1.02
+Tsettling = 12.201ms
+Vpeak = 21.971
+Tpeak = 10.002ms
