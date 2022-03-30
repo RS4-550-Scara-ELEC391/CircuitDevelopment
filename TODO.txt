@@ -1,1 +1,1 @@
-Make Hbridge and Rectifier circuits on ultiboard
+Make Hbridge and arduino pin reader circuits on ultiboard for 3rd motor
