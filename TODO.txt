@@ -1,1 +1,4 @@
-Make Hbridge and arduino pin reader circuits on ultiboard for 3rd motor
+Make hbridge for linear actuator. Find a speed control circuit. Test optoisolator (I think it acts like a NOT
+gate for some reason). Remove NOT gate, arduino high-low/low-high control direction, low-low stops arduino. Think of
+protection that will set inputs to low-low if the input is high-high. Look into high current protection
+
